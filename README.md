@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyVoix JS
 
 A JavaScript library to use voice command in Chrome.
@@ -72,3 +73,9 @@ refer to **bind**
 Licensed under the MIT license.
 
 Copyright (c) 2014 yulianghuang
+=======
+MyVoix
+======
+
+Libaray to use voice command for html5
+>>>>>>> dd17d84e9869081ab05e7b80a3ff706989e2dc2c
