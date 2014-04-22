@@ -47,11 +47,11 @@ var MyVoix=function(pConfig,pCommands,pIsLoop);
 
 bind a string
 
-```_myVoix.bind('go',function(){});```
+`_myVoix.bind('go',function(){});`
 
 bind an array
 
-```_myVoix.bind(['go','start'],function(){});```
+`_myVoix.bind(['go','start'],function(){});`
 
 ### unbind(pCommand, pListener)
 
