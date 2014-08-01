@@ -65,6 +65,21 @@ bind an array
 
 refer to **bind**
 
+### createSoundWave()
+
+***Args***
+
+- `opt`: the config of soundwave
+
+***eg:***
+				
+    _myVoix.createSoundWave({
+    	canvas:document.getElementById('myCanvas'),
+    	height:600,
+    	width:800,
+    	noise:0.01,
+    	F:2
+    });
 
 ## Maintained by
 - E-mail: 531151995@qq.com
