@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>WebCar Play</title>
+		<title></title>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<script type="text/javascript" src="myvoix2.0.js" ></script>
 		<script type="text/javascript">
