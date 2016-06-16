@@ -82,7 +82,7 @@ refer to **bind**
     });
 
 ## Maintained by
-- E-mail: 531151995@qq.com
+- E-mail: ArthusLiang@gmail.com
 
 ## License
 Licensed under the MIT license.
